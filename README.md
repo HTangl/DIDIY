@@ -19,7 +19,7 @@ If you’d like to assemble one of these boards yourself this repository contain
 ## Other parts needed for assembly ##  
 
 1 - [Raspberry Pi Pico](https://www.pishop.us/product/raspberry-pi-pico/)  
-1 - Model UD, I sell these on [Etsy](https://www.etsy.com/shop/HTangl) and they can also be ordered from JLCPCB, there’s an ordering guide on the [Model UD github page](https://github.com/HTangl/Model-UD)  
+1 - Model UD, I sell these on [Etsy](https://www.etsy.com/shop/HTangl) and they can also be ordered from JLCPCB, there’s an ordering guide on the [Model UD github page](https://github.com/HTangl/Model-UD). The Model UD isn't absolutely required, you can instead simply hard wire a USB or GC cable to the USB/GC pin bank on the right, there are 2 holes at the top right that can be used to zip tie the cable in place as well.  
 9 - [3 pin 3.5mm pitch screw terminal](https://amazon.com/dp/B07B79Q911)  
 1 - [2 pin 3.5mm pitch screw terminal](https://amazon.com/dp/B07B791NMQ)   
 1 – Set of [2.54 pitch male pin headers](https://amazon.com/dp/B07PKKY8BX)  
