@@ -1,4 +1,6 @@
-# DIDIY
+# DIDIY #  
+
+![](https://raw.githubusercontent.com/HTangl/DIDIY/main/Pictures/Complete.jpg)  
 
 The DIDIY is an all in one board designed to make building a rectangle controller much more simple and straightforward.  
 
@@ -22,7 +24,7 @@ If you’d like to assemble one of these boards yourself this repository contain
 1 - [2 pin 3.5mm pitch screw terminal](https://amazon.com/dp/B07B791NMQ)   
 1 – Set of [2.54 pitch male pin headers](https://amazon.com/dp/B07PKKY8BX)  
 
-## Assembly guide ##
+## Assembly guide ##  
 
 Before soldering anything you should test your Pico by uploading firmware onto it, I recommend using the [Htangl Firmware](https://github.com/HTangl/HTangl-Firmware).  
 Here is a guide on how to get the DIDIY set up on Slippi and Wii/Switch after you have completed the build - https://www.htangl.com/didiy-guide  
