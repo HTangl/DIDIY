@@ -4,8 +4,6 @@
 
 The DIDIY is an all in one board designed to make building a rectangle controller much more simple and straightforward.  
 
-I sell these on [Etsy](https://www.etsy.com/shop/HTangl) but they generally sell out very quickly so if they’re not in stock check the [HTangl discord](https://discord.gg/yAeFsbCDpv) for info on when another batch is coming out.  
-
 If you’d like to assemble one of these boards yourself this repository contains the files necessary to order the boards from JLCPCB. They have a 5 board minimum order but the boards are pretty cheap.  
 
 ## How to order from JLCPCB ##  
